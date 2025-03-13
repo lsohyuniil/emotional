@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'SOYO Maple';
+  src: url('./font/SOYO Maple Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'SOYO Maple';
+}
+
+body {
+  margin: 0;
+  font-family: 'SOYO Maple', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'SOYO Maple', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
