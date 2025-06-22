@@ -1,6 +1,6 @@
 # Inside Out Emotional Chat 
 
-<img alt="Inside Out Emotional Chat" src="" />
+<img alt="Inside Out Emotional Chat" src="https://github.com/user-attachments/assets/7b4aadf2-ed7e-4821-8afd-d3c201a3b801" />
 
 ## 📄 프로젝트 소개
 
@@ -20,3 +20,6 @@ OpenAI의 GPT API를 활용해 감정별 맞춤형 대화 경험을 제공함.
 <br><br>
 
 ## ⭐️ 프로젝트 주요 기능
+- 시스템 프롬프트 설계를 통해 감정 기반 톤 및 성격이 반영된 일관된 대화 흐름 구현
+- Axios를 이용해 프론트엔드와 백엔드 간 실시간 비동기 통신 구현
+- Node.js와 Express 기반 REST API 서버 구축 및 OpenAI API 연동
